@@ -100,7 +100,7 @@ Start the server
 ![App Screenshot](https://camo.githubusercontent.com/3638770a498aa8a62be0fb35f9217dbc78a50d739e1f6cdc64ef88def23aa1ec/68747470733a2f2f666c61736b2e70616c6c65747370726f6a656374732e636f6d2f656e2f312e312e782f5f696d616765732f666c61736b2d6c6f676f2e706e67)
 ![App Screenshot](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png)
 ![App Screenshot](https://camo.githubusercontent.com/a36ba2ddbad5deb001d427c5875162c4622af3cb0fa0f093f3504a4d4feaf274/68747470733a2f2f6e756d626572312e636f2e7a612f77702d636f6e74656e742f75706c6f6164732f323031372f31302f67756e69636f726e5f6c6f676f2d3330307838352e706e67)
-![App Screenshot](https://cdn.freebiesupply.com/logos/thumbs/2x/heroku-1-logo.png)
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/heroku-1-logo.png"  height=150  weight=150/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height=150  weight=150/>
 
 
