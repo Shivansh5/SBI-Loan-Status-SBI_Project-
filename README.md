@@ -1,6 +1,20 @@
 
 # SBI LOAN STATUS 🏦
 
+Table of Contents
+=================
+
+* [SBI LOAN STATUS <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">🏦</g-emoji>](#sbi-loan-status-)
+   * [Demo](#demo)
+   * [Overview <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>](#overview-️)
+   * [Motivation <g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji>](#motivation-)
+   * [Introduction](#introduction)
+   * [The Classification problem](#the-classification-problem)
+   * [FEATURES PRESENT IN LOAN PREDICTION](#features-present-in-loan-prediction)
+   * [Run Locally](#run-locally)
+   * [Tech Stack](#tech-stack)
+   * [Authors](#authors)
+   * [Social Link](#-social-link)
 
 
 ## Demo
