@@ -18,7 +18,7 @@ Table of Contents
 
 
 ## Demo
-Link:- https://sbi-loan-status.herokuapp.com/
+Link:- https://loan-status-app.herokuapp.com/
 ![App Screenshot](https://github.com/Shivansh5/my-image/blob/main/Screenshot%20from%202021-11-21%2023-22-22.png?raw=true)
 
 ![App Screenshot](https://github.com/Shivansh5/my-image/blob/main/Screenshot%20from%202021-11-21%2023-24-19.png?raw=true)
